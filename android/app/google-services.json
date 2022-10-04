@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "446695471913",
+    "project_id": "comunicao-987f9",
+    "storage_bucket": "comunicao-987f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446695471913:android:df1d547330f87c28969538",
+        "android_client_info": {
+          "package_name": "com.example.comunicacao_alternativa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446695471913-mh5g0f140h12ul7j8ff5l8kv40jdnp23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqxhQbmK2TIyB2mkuBrMxG66rG2Ai-47s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446695471913-mh5g0f140h12ul7j8ff5l8kv40jdnp23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

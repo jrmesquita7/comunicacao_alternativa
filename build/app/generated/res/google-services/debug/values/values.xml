@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">446695471913-mh5g0f140h12ul7j8ff5l8kv40jdnp23.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">446695471913</string>
+    <string name="google_api_key" translatable="false">AIzaSyCqxhQbmK2TIyB2mkuBrMxG66rG2Ai-47s</string>
+    <string name="google_app_id" translatable="false">1:446695471913:android:df1d547330f87c28969538</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCqxhQbmK2TIyB2mkuBrMxG66rG2Ai-47s</string>
+    <string name="google_storage_bucket" translatable="false">comunicao-987f9.appspot.com</string>
+    <string name="project_id" translatable="false">comunicao-987f9</string>
+</resources>
